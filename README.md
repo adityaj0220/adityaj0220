@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**adityaj0220/adityaj0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Final Year B.Tech student in Computer & Communication stream at MUJ.
 React Developer, worked on both Web and Mobile App Development.
