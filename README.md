@@ -2,7 +2,7 @@
 
 
 
-Final Year B.Tech student in Computer & Communication stream at MUJ.
+Graduate B.Tech student in Computer & Communication stream at MUJ.
 React Developer, worked on both Web and Mobile App Development.
 Also, currently exploring and growing my knowledge base in the areas of Network & Computer security and SAP ERP. 
 
